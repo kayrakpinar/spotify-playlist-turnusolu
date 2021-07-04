@@ -11,7 +11,7 @@ Elinizdeki bir Spotify playlist'inde programda bulunan black_list adlı array i�
 Terminalde şu adımları takip ederek kurulum yapabilirsiniz:<br>
 * git clone https://github.com/kayrakpinar/spotify-playlist-turnusolu.git<br>
 * cd spotify-playlist-turnusolu<br>
-* pip install requirements.txt<br>
+* pip install -r requirements.txt<br>
 veya <br>
 python -m pip install -r requirements.txt
 
