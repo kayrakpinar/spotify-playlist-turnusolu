@@ -13,7 +13,7 @@ Terminalde şu adımları takip ederek kurulum yapabilirsiniz:<br>
 * cd spotify-playlist-turnusolu<br>
 * pip install requirements.txt<br>
 veya <br>
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 
 ## Yapılandırma
 Öncelikle Spotify'dan bir uygulama oluşturup uygulamanın ID ve Secret key'ini config.json dosyasında "YOUR SPOTIFY APP CLIENT ID" ve "YOUR SPOTIFY APP CLIENT SECRET KEY" değerleri yerine (Çift tırnakları silmeden) eklememiz gerekiyor. Şu bağlantıdan Spotify uygulaması oluşturma konusunda yardım alabilirsiniz: https://developer.spotify.com/documentation/general/guides/app-settings/<br>
